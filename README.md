@@ -22,7 +22,7 @@ A simple console-based calculator program written in Java.
 1. Compile the program:
    javac Calculator.java
 2. Run the program:
-   java Calculator
+   java Calculator 
 
 
 
