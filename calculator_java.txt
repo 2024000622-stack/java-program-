@@ -6,7 +6,7 @@ public class Calculator {
 
         Scanner sc = new Scanner(System.in);
   
-        System.out.print("Enter first number: ");
+        System.out.print("Enter first number: ");  
         int a = sc.nextInt();
 
         System.out.print("Enter second number: ");
@@ -49,4 +49,5 @@ public class Calculator {
         sc.close();
     }
 }
+
 
